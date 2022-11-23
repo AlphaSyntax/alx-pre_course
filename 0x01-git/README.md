@@ -1,1 +1,1 @@
-Something
+Learning Git is fun
